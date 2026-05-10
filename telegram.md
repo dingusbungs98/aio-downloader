@@ -7,6 +7,90 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 10:23
+---
+
+## VahidOOnLine — post 239223
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239223_1778395984.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه آمریکا اعلام کرد در راستای فشار بر جمهوری اسلامی، اقداماتی برای «مختل کردن شبکه‌های تأمین نظامی برون‌مرزی ایران» انجام داده است.
+
+دفتر امور خاور نزدیک وزارت خارجه آمریکا با انتشار بیانیه‌ای اعلام کرد این اقدامات با هدف محدود کردن دسترسی جمهوری اسلامی به تجهیزات، فناوری و شبکه‌های خرید خارجی مرتبط با فعالیت‌های نظامی صورت گرفته است.
+
+در این بیانیه جزئیات بیشتری درباره افراد یا نهادهای هدف قرار گرفته منتشر نشده.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239222
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239222_1778395985.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری رویترز گزارش داد روز شنبه ۹ مه، پس از چند روز تنش پراکنده، آرامش نسبی در اطراف تنگه هرمز برقرار بود.
+
+همزمان، آمریکا در انتظار پاسخ جمهوری اسلامی به تازه‌ترین پیشنهاد واشینگتن برای پایان دادن به بیش از دو ماه درگیری و آغاز مذاکرات صلح است.
+
+مارکو روبیو، وزیر خارجه آمریکا، روز جمعه گفته بود واشینگتن انتظار دارد تهران «ظرف چند ساعت» پاسخ دهد؛ اما با گذشت یک روز، هنوز نشانه‌ای از واکنش رسمی جمهوری اسلامی دیده نشده است.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239221
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239221_1778395986.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گردهمایی ایرانیان نیوزیلند
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 90450
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وزیر دفاع لهستان :ما آمادگی داریم سربازای آمریکایی بیشتری رو تو کشورمون مستقر کنیم
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## alonews — post 118988
+
+<div align="center">
+  <a href="telegram/content/alonews_118988_1778395988.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈علی صبوری بلاگر معروف بعد اینکه فحش به نظام کشید، گفت بیایید منو به جرم فعالیت علیه نظام بگیرید
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118987
+
+<div align="center">
+  <a href="telegram/content/alonews_118987_1778395988.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ در پیشنهاد جدیدش، بودجه حمایت نظامی آمریکا از کردهای پیشمرگه‌ عراق در سال آینده را به صفر دلار کاهش داد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 10:13
 ---
 
