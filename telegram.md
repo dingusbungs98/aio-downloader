@@ -7,6 +7,41 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 01:25
+---
+
+## Shin_Persian — post 5947
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Sun, 10 May 2026 21:53:45 UTC
+
+Explosions heard in Soran district, Erbil province
+#Iraq 🇮🇶
+
+فارسی
+
+صدای انفجارهایی در شهرستان سوران، استان اربیل شنیده شد
+#Iraq 🇮🇶
+
+𝕏 · @shin_persian
+</div>
+
+## alonews — post 119173
+
+<div align="center">
+  <a href="telegram/content/alonews_119173_1778450139.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈مارک فاکس، معاون سابق فرماندهی مرکزی آمریکا :
+آتش‌بس با ایران به اسرائیل اجازه داد تا ذخایر مهمات خودشو دوباره پر کنه و اطلاعات بیشتری جمع‌آوری کنه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 01:22
 ---
 
