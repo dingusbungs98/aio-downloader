@@ -332,7 +332,7 @@ https://github.com/ProAlit/aio-downloader
 
 | پلتفرم | نمونه دستور (داخل ورودی‌های workflow) |
 |--------|--------------------------------------|
-| **یوتیوب** – ویدیو با کیفیت 1080p + زیرنویس انگلیسی | `https://www.youtube.com/watch?v=VIDEO_ID -- --format "best[height<=1080]" --sub-lang en --write-subs` |
+| **یوتیوب** – ویدیو با کیفیت 1080p + زیرنویس انگلیسی | `https://youtube.com/watch?v=VIDEO_ID v 480/720/1080 // https://www.youtube.com/watch?v=VIDEO_ID -- --format "best[height<=1080]" --sub-lang en --write-subs` |
 | **اینستاگرام** – دانلود پست یا ریل (با کوکی) | `https://www.instagram.com/p/CODE -- --cookies cookies.txt --output "%(title)s.%(ext)s"` |
 | **تیک‌تاک** – دانلود ویدیو و ذخیره زیرنویس | `https://www.tiktok.com/@user/video/ID -- --write-subs --sub-lang en` |
 | **توییتر / X** – بهترین کیفیت موجود | `https://x.com/user/status/ID -- --format best` |
@@ -342,7 +342,7 @@ https://github.com/ProAlit/aio-downloader
 | **ویــمئو** – دانلود ویدیو با رزولوشن دلخواه | `https://vimeo.com/ID -- --format "best[height<=720]"` |
 | **دیلی‌موشن** – دانلود ویدیو | `https://www.dailymotion.com/video/ID -- --format best` |
 | **تلگرام (لینک عمومی)** – دانلود فایل از کانال عمومی | `https://t.me/channel/12345 -- --format best` |
-| **سایت‌های مستهجن** – دانلود از سایت‌های مستهجن | `لینک ویدئو` |
+| **سایت‌های مستهجن** – دانلود از سایت‌های مستهجن | `لینک ویدئو v 480/720/1080` |
 
 > ℹ️ **نکته:** برای سایت‌هایی مثل اینستاگرام و تیک‌تاک که به کوکی نیاز دارند، ابتدا کوکی‌ها را به Secrets اضافه کنید (مطابق بخش ۳) و سپس در دستور `--cookies /path/to/cookies.txt` را قرار دهید. لیچر فایل کوکی را از Secret می‌خواند و در مسیر استاندارد ذخیره می‌کند.
 
@@ -889,7 +889,7 @@ You are not limited to YouTube, nor to predefined settings. **You're in full con
 
 | Platform | Example command (paste into workflow input) |
 |----------|----------------------------------------------|
-| **YouTube** – 1080p video + English subs | `https://www.youtube.com/watch?v=VIDEO_ID -- --format "best[height<=1080]" --sub-lang en --write-subs` |
+| **YouTube** – 1080p video + English subs | `https://www.youtube.com/watch?v=VIDEO_ID -- --format "best[height<=1080]" --sub-lang en --write-subs // https://www.youtube.com/watch?v=VIDEO_ID v 480/720/1080` |
 | **Instagram** – Download post/reel (with cookies) | `https://www.instagram.com/p/CODE -- --cookies cookies.txt --output "%(title)s.%(ext)s"` |
 | **TikTok** – Download video & captions | `https://www.tiktok.com/@user/video/ID -- --write-subs --sub-lang en` |
 | **Twitter / X** – Best available resolution | `https://x.com/user/status/ID -- --format best` |
@@ -899,7 +899,7 @@ You are not limited to YouTube, nor to predefined settings. **You're in full con
 | **Vimeo** – Download with custom resolution | `https://vimeo.com/ID -- --format "best[height<=720]"` |
 | **Dailymotion** – Download video | `https://www.dailymotion.com/video/ID -- --format best` |
 | **Telegram (public link)** – Grab file from public channel | `https://t.me/channel/12345 -- --format best` |
-| **Porn Downloader** – All Porn Websites | `Link To Video` |
+| **Porn Downloader** – All Porn Websites | `Link To Video v 480/720/1080` |
 
 > ℹ️ **Note:** For sites like Instagram and TikTok that require cookies, first add your cookies to Secrets (section 3) and then include `--cookies /path/to/cookies.txt`. Leecher automatically reads the cookie secret and saves it in the expected location.
 
